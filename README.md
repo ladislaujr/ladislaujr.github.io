@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # ladislaujr.github.io
 Meusite
 
->>>>>>> e2a8f09aa1b25bf49953636a6c23fec308e044a6
+
